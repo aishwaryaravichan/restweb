@@ -498,11 +498,10 @@ contact.html
 </html>
 
 ## OUTPUT:
-
-Screenshot 2025-10-03 134823.png
-Screenshot 2025-10-03 132437.png
-Screenshot 2025-10-03 132320.png
-Screenshot 2025-10-03 132522.png
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
 
 
 ## RESULT:
